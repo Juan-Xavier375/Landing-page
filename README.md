@@ -1,4 +1,4 @@
-# landing-page-teste
+# landing-page
 
 Esse projeto é um site que utilizei para aprender mais sobre responsividade.
 
@@ -6,5 +6,3 @@ Esse projeto é um site que utilizei para aprender mais sobre responsividade.
 
 - HTML
 - CSS
-
-## Como rodar o projeto
