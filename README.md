@@ -1,2 +1,10 @@
 # landing-page-teste
-site criado para fim de portfolio e aprendizado
+
+Esse projeto é um site que utilizei para aprender mais sobre responsividade.
+
+## Tecnologias utilizadas
+
+- HTML
+- CSS
+
+## Como rodar o projeto
